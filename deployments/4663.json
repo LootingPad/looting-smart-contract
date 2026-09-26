@@ -1,0 +1,13 @@
+{
+  "admin": "0x28b14bF827b10D2037fdc367a1f86434069D5E50",
+  "chainId": 4663,
+  "deployBlock": 26060267,
+  "devLock": "0x3e5b1935EdcA330CEfDd158Ec266AeCCbc77a78e",
+  "devLockOpsWallet": "0x6B5A599160Eb1fFf5da90A0C63b144e341cDBF1F",
+  "feeWei": 3000000000000000,
+  "keeper": "0x28b14bF827b10D2037fdc367a1f86434069D5E50",
+  "launchRegistry": "0xe39493f3aef4fbA076d7c8B60F8b23fA7e2848fe",
+  "stakingFactory": "0x4Cf5D199888e5BEA839e4cA7f8558288f102Bf58",
+  "stakingOpsWallet": "0x2Cd6aBfFcDB83Ea1D111611696EA3a596bd997bD",
+  "stakingVaultImplementation": "0xF854B5Eb2339A79F67f63F9A97AD865411F3E609"
+}
