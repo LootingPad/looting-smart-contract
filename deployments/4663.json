@@ -9,5 +9,17 @@
   "launchRegistry": "0xe39493f3aef4fbA076d7c8B60F8b23fA7e2848fe",
   "stakingFactory": "0x4Cf5D199888e5BEA839e4cA7f8558288f102Bf58",
   "stakingOpsWallet": "0x2Cd6aBfFcDB83Ea1D111611696EA3a596bd997bD",
-  "stakingVaultImplementation": "0xF854B5Eb2339A79F67f63F9A97AD865411F3E609"
+  "stakingVaultImplementation": "0xF854B5Eb2339A79F67f63F9A97AD865411F3E609",
+  "launchRouter": "0x42744CFfdFDd706fF34A2D218954640a3DEe0347",
+  "launchRouterDeployTx": "0x17f66136945a284007f56a71820b5c9b5e8dd6e8b9436d1cecf0dbfe0175ac4f",
+  "rewardRouter": "0x5a8A7947d36f81ba63049C22B315327bbd82d152",
+  "rewardRouterDeployTx": "0x35851bde979ab7180233b470440fb671dde5b9865a3c1e3a06c857a540aaeae8",
+  "luckyBoxEthModule": "0x640884cf8B01c9c4d8Ab08Dc9E62bA60BFe6041A",
+  "luckyBoxEthModuleDeployTx": "0x92c4673d3004c6bea54615156880f2684814e303c82c5dca39b71383d8c21375",
+  "burnWallet": "0xD712570969461D9f736a76e290a4Ee700509a59B",
+  "launchRouterPrev": "0x3e557F19890E83D8e33C19d7574458DF838a58Ab",
+  "launchRouterDeployBlock": 76470771,
+  "rewardRouterDeployBlock": 76470719,
+  "luckyBoxEthModuleDeployBlock": 76470728,
+  "ponsFeeEscrow": "0xd3AFEB2a57f70eF218Aa82451c51B2fb0416Ac9e"
 }

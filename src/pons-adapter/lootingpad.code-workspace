@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../new-maincode/main-code"
+		},
+		{
+			"path": "../../../../backend/looting-backend"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../tgbot/tgbot"
+		},
+		{
+			"path": "../../../../branding"
+		},
+		{
+			"path": "../../../../admin-pages/admin-pages"
+		}
+	],
+	"settings": {}
+}
